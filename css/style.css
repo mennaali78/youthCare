@@ -1,7 +1,10 @@
 /* SECTION */
 
 /* SECTION */
-
+a {
+    color: white;
+    text-decoration: none;
+}
 .alumni-section{
 position:relative;
 padding:80px 0;
